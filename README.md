@@ -1,3 +1,3 @@
-FooCoin (FOO)
+BeanCoin (BEA)
 
 Blah, blah, blah.
